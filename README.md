@@ -7,4 +7,4 @@ Uses Surf2STL write functions by asahidari/surf2stl-python
 ## How to use:
 - Download both .py files
 - Run lens_maker(file_path) with filepath to your image of choice
-- Tune parameters by fiddling with the lens_maker function, e.g the lens dimensions/focal length
+- Tune parameters by fiddling with the lens_maker function, e.g the lens dimensions/focal length, number of pixels etc
